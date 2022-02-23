@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue betwixt H.B.'s ghost and his dear author R.L.S.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35914</idno>
+            <idno type="STC">Wing D1350</idno>
+            <idno type="STC">ESTC R20577</idno>
+            <idno type="EEBO-CITATION">12403046</idno>
+            <idno type="OCLC">ocm 12403046</idno>
+            <idno type="VID">61323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 275:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue betwixt H.B.'s ghost and his dear author R.L.S.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Henry Brome (H.B.) and Roger L'Estrange (R.L.S.).</note>
+                  <note>In prose and verse.</note>
+                  <note>Date of Publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brome, Henry.</term>
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:61323:1"/>
+            <pb facs="tcp:61323:1" rendition="simple:additions"/>
+            <head>A DIALOGUE Betwixt H.<add>enry</add> B<add>rome</add>'s. GHOST, AND His Dear Author R.<add>og<hi rend="sup">e</hi>
+               </add> L.<add>e-</add> S.<add>trange</add> 
+               <date>
+                  <add>20. May .1681.</add>
+               </date>
+            </head>
+            <sp>
+               <speaker>GHOST.</speaker>
+               <lg>
+                  <l>BE not afraid, its kindneſs brings me here,</l>
+                  <l>And makes me leave a while the lower Sphere;</l>
+                  <l>That I in time may warn thee of the wrong,</l>
+                  <l>Done by thy Scribling Pen and Lying Tongue.</l>
+                  <l>Tho' I indeed can tell thee now no more,</l>
+                  <l>Than thy own Conſcience oft has told before:</l>
+                  <l>Yet that thou mayn't thy Wicked Courſe ſtill tread,</l>
+                  <l>I'm come to give Thee warning from the Dead.</l>
+                  <l>I can't by Words or Gain deceived be,</l>
+                  <l>For now I can through all diſguiſes ſee:</l>
+                  <l>Repent for thou grow'ſt old, muſt yield to Fate,</l>
+                  <l>I ſay repent, before it be too late;</l>
+                  <l>For all thoſe Lies I uſher'd to the World,</l>
+                  <l>Deceiv'd by thee, now, in m face are hurl'd,</l>
+                  <l>That witty Mal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce I did once admire,</l>
+                  <l>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in thy Works like Sulphur now takes Fire,</l>
+                  <l>And though to you on Earth I ſtill prov'd kind,</l>
+                  <l>'Tis from your Pamphlets I my Torment find;</l>
+                  <l>For with thoſe Sheets I Printed, now well dry'd,</l>
+                  <l>The wicked Devils ſinge and ſcorch my Hide:</l>
+                  <lg>
+                     <l>If thus to me ſuch Puniſhment's aſſign'd,</l>
+                     <l>What Torment will they for the Author find?</l>
+                     <l>You ſee therefore to warn thee I'm kind.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>L.<add>e</add> S.<add>trange.</add>
+               </speaker>
+               <p>In the Name of the Goblin of Hobgoblins, a Diſſen<g ref="char:EOLhyphen"/>tor, what makeſt thee to come to trouble me? Tho' I am not much afraid of Devils, believing none, yet thou haſt made me ſtart: Beſhrew thee, I was afraid thou hadſt been come to ask me money. Prethee go and be Damn'd if thou wilt; I do not deſire thy Company, ſince I can make no more uſe of thee.</p>
+            </sp>
+            <sp>
+               <speaker>GHOST.</speaker>
+               <l>Ungrateful Wretch, am I a trouble now?</l>
+               <l>Who to my coſt, ſo uſeful was to you?</l>
+               <l>I who alive, was your ill ridden Slave,</l>
+               <l>No ſooner am I dropt into the Grave,</l>
+               <l>But all's forgot, and what to me ſeems worſe,</l>
+               <l>My very kindneſs now you count a Curſe:</l>
+               <l>Is it becauſe to me ſo much you owe,</l>
+               <l>Or elſe, for that I now your inſide know?</l>
+               <l>Provoke me not, leſt to the World I tell</l>
+               <l>Thoſe hidden times you know I can reveal.</l>
+            </sp>
+            <sp>
+               <speaker>L. S.</speaker>
+               <p>Dear Friend Ghoſt don't think to affright me with that; You may know too, if you pleaſe, how I have Wit enough to make the World believe any thing, and that I have Impudence enough to out<g ref="char:EOLhyphen"/>face all Accuſations and Oaths, That I have Cou<g ref="char:EOLhyphen"/>rage enough to abuſe every Body, and that I have Diſſimulation enough to appear what I am not, ſo that ſay what you will, no body ſhall believe you.</p>
+            </sp>
+            <sp>
+               <speaker>GHOST.</speaker>
+               <l>And ſuch a Fool was I, whilſt I did live,</l>
+               <l>Deceived by you, I did the World deceive;</l>
+               <l>But though the World will not believe my Ghoſt,</l>
+               <l>And that on it my Words and Truth were loſt;</l>
+               <l>Yet ſince this Voyage was in kindneſs meant,</l>
+               <l>Methinks that I ſhould move you to Repent,</l>
+               <l>And touch your hardned Soul with ſome remorſe,</l>
+               <l>And make you leave your Wicked, Lying Courſe.</l>
+            </sp>
+            <sp>
+               <speaker>L. S.</speaker>
+               <p>Good Ghoſt leave Preaching, and don't trouble me with thy Impertinence, we have had ſo many ariſe from the Dead of late, that they are grown fami<g ref="char:EOLhyphen"/>liar, and almoſt contemptible: You had therefore as good hold your Tongue, for you'l be but laught at: And as for my ſelf, do you think I care for your Morallity or Divinity either; I lov'd you very well, while alive, but 'twas for my own ends, and I am not a little troubled at your Death, be<g ref="char:EOLhyphen"/>cauſe I ſhall never meet with ſuch another, ſo ve<g ref="char:EOLhyphen"/>ry uſeful as thou haſt been, and I ſhall be at a great loſs. I know thou hast ſuffered upon my Account, but have not I Eterniſed thy Name with my own, and over-paid thee for all? and I was thinking to have wrote thy Elegy; had not you come thus to in<g ref="char:EOLhyphen"/>terrupt me, and to accuſe me for doing ſo much Good to my Country, and ſatisfying my Conſcience in ſhewing my Loyalty to my King, and my Zeal to the Church, against theſe Vermine and Peſts of the Nation, that write and ſpeak against me and Popery.</p>
+            </sp>
+            <pb facs="tcp:61323:2"/>
+            <sp>
+               <pb facs="tcp:61323:2" rendition="simple:additions"/>
+               <speaker>GHOST.</speaker>
+               <l>It is a ſign you fear not God, nor Hell,</l>
+               <l>Since thou to me ſo, reat a Lye dar'ſt tell</l>
+               <l>To me, who now all your pretences know,</l>
+               <l>All has to me diſcover'd been below.</l>
+               <l>To brag of Loyalty, to me refram;</l>
+               <l>Your Loyalty I underſtand is Gain:</l>
+               <l>Your Love to King, your County and your Friends,</l>
+               <l>Is but to ſerve your baſe and wicked Ends:</l>
+               <l>'Tis Malice and Revenge, which you call Zeal,</l>
+               <l>For Holy Church, and for the Common Weal:</l>
+               <l>I know full well what I t'reſt you drive on,</l>
+               <l>And whom you would Advance unto the Throne.</l>
+               <l>Death has new Senſes given, new Ears and Eyes,</l>
+               <l>I was before a Fool, but now grown Wiſe:</l>
+               <l>For every thing, I now have ſeen and heard,</l>
+               <l>And how your Zeal is fired with Reward.</l>
+               <l>And prithee ſince here's none but I and You,</l>
+               <l>Tell me, let Conſcience tell me, is'nt this true?</l>
+            </sp>
+            <sp>
+               <speaker>L. S.</speaker>
+               <p>What a Preaching Book ſeller are thou become? What haſt thou to do with me and Conſcience? do you think I am now to be Catechiſed by a paltry Ghoſt about Conſcience? come, come, I have ſtudied the point, and queſtion not, of you will furniſh me with Books, as thou wert wont to do, but to argue my Caſe with Advantage at <hi>Lucifers </hi>Bar, and baffle all his Orators. But, tell me, how you came to be ſo Poe<g ref="char:EOLhyphen"/>tical? do they all ſpeak in Rhime in the neither World?</p>
+            </sp>
+            <sp>
+               <speaker>GHOST.</speaker>
+               <l>Uſe you your Drolling Proſe, this fits my Mind,</l>
+               <l>Thus Oracles of Old did ſpeak, you find:</l>
+               <l>The Crimes of Men, Satyrs do ſtill Rehearſe,</l>
+               <l>In poynant Rhyme, and in two Edged Verſe.</l>
+               <l>Grave as a Church man, I your faults would tell,</l>
+               <l>To keep your Soul from being Damn'd in Hell:</l>
+               <l>If you at laſt will ſober grow and wiſe,</l>
+               <l>Leave your black Crimes, and follow my Advice.</l>
+            </sp>
+            <sp>
+               <speaker>L. S.</speaker>
+               <p>I warn't you'l adviſe me turn honeſt, undeceive the People, Recant, ask Forgiveneſs of thoſe I have Wrong'il, do as I would be done unto, and ſuch like Moral Stuff: turn Honeſt, that's Impoſſible, what a ſhame would that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e after ſo many years Travel<g ref="char:EOLhyphen"/>ling in another Road? and what ſhould I get by it? honesty won't Cloth the Back, nor fill the Bel<g ref="char:EOLhyphen"/>ly, as the World goes: I fancy <hi>De-que-vedoes,</hi> Hell is a much better place than the ſtarving Pur<g ref="char:EOLhyphen"/>gatory of <hi>Honeſty.</hi>And as for asking forgive<g ref="char:EOLhyphen"/>neſs, what a Task would that be? 'twould ask more years than I have Weeks to live, I have wrong'd and abuſed ſo many, a whole Nation at leaſt. I am better Principl'd than ſo, and have ſeen more leading Precedents.</p>
+            </sp>
+            <sp>
+               <speaker>GHOST.</speaker>
+               <l>I ſee the Fiend that Lodges in thy Heart,</l>
+               <l>But I have done for thee a Friendly part;</l>
+               <l>I've told thee what at laſt will be thy Doom,</l>
+               <l>Though thou ſtill laugh'ſt at what is yet to come.</l>
+               <l>Go on, believe not what thou do'ſt not ſee;</l>
+               <l>Believe not living Oracles, nor me.</l>
+               <l>Thirſt after Gain, Honour, and empty Fame,</l>
+               <l>And get at laſt for all, a <hi>Crack-fart</hi>'s Name.</l>
+               <l>Fond man, do'ſt think thou can'ſt a Nation ſway,</l>
+               <l>Or the grand Wheel of Fate that's turning, ſtay.</l>
+               <l>With thy ſtill ſcribling and defaming Pen?</l>
+               <l>Which makes thee hated of all honeſt men:</l>
+               <l>With Diamond Pen in Braſs thy Works are wrot,</l>
+               <l>That they below may never be forgot.</l>
+               <l>They'l worſer prove than your great Senates Vote,</l>
+               <l>And thine own Words will ſerve to cut thy Throat:</l>
+               <l>For the more ſtir thou with thy Pen doſt keep,</l>
+               <l>Tho' here perhaps thou may'ſt ſome profit reap,</l>
+               <l>Thy Crimes and Puniſhment do both Increaſe:</l>
+               <l>Thy wit is grown thy burthen and Diſeaſe,</l>
+               <l>Juſtice below is to the Crimes made fit,</l>
+               <l>Which will condemn thy vile pernicious wit:</l>
+               <l>And what to others trouble gave above,</l>
+               <l>Below for e're ſhall thy own Torment prove:</l>
+               <l>There's but one way this Juſtice to prevent,</l>
+               <l>Leave ſcribling, ask forgiveneſs, and Repent.</l>
+            </sp>
+            <sp>
+               <speaker>R. S.</speaker>
+               <p>So he's gon: I hope he'l now be quiet: This is, I think, the nine and thirtieth warning I have had; and to as little purpoſe, as all the reſt, and ſo I'le, let 'um know in my next Pamphlet, which ſhall out as ſoon as I can agree with a Book-ſeller. 'Tis good to be true to ones Principles.</p>
+               <lg>
+                  <l>T<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> Ghoſts talk what they will of Hell and Pain,</l>
+                  <l>From real pleaſure they ſhan't me reſtrain:</l>
+                  <l>The Itch of Scribling, and the ſweet of Gain.</l>
+               </lg>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> J. M. <add> May 20.</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
